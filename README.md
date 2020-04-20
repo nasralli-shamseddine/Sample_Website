@@ -1,2 +1,2 @@
-<strong> README </strong>
-sample work in progress 
+<h1> README </h1>
+<p> sample work in progress </p> 
